@@ -1,5 +1,6 @@
-member:
+member-service:
     message: member-service
     contactDetails:
       name: "Trupti Acharekar"
+
       email: "trupti.acharekar@hotmail.com"
