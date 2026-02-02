@@ -1,5 +1,6 @@
-book:
+book-service:
     message: book-service
     contactDetails:
       name: "Vivek Gohil"
+
       email: "ghl_vivek@hotmail.com"
